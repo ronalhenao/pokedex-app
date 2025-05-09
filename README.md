@@ -28,6 +28,13 @@ Una Pokédex construida con **React**, usando **TypeScript**, **Context API** pa
 
 ---
 
+## 🧪 Pruebas (pendiente)
+Este proyecto aún no cuenta con pruebas automatizadas. La intención es utilizar **Jest** para implementar pruebas unitarias y de integración en los siguientes aspectos:
+
+> ⚠️ Se deja como una tarea pendiente y prioritaria para futuras versiones.
+
+---
+
 ## 🛠️ Instalación
 
 ```bash
