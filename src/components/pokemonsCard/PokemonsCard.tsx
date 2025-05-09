@@ -10,6 +10,7 @@ interface Props {
 export default function PokemonsCard({ url }: Props) {
     const { pokemon } = usePokemon(url);
 
+    /* @ts-ignore */
     const backgroundSelected = background[pokemon?.types[0]?.type?.name];
 
 

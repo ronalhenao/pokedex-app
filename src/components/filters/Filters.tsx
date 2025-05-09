@@ -42,6 +42,7 @@ export const Filters = () => {
             >
               <div
                 className="w-2 h-2 rounded-full"
+                /* @ts-ignore */
                 style={{ background: background[type.name] || "#ccc" }}
               />
               {type.name}
